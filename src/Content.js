@@ -8,20 +8,16 @@ import img_6 from './assets/images/06_online.png';
 import img_7 from './assets/images/07_online.png';
 import img_8 from './assets/images/08_online.png';
 import img_9 from './assets/images/09_online.png';
-import img_10 from './assets/images/10_online.png';
-import img_11 from './assets/images/11_online.png';
-import img_12 from './assets/images/12_online.png';
-import img_13 from './assets/images/13_online.png';
 
 
 export const content = {
     onlineKitchen:{
-        title: "Online Kitchen",
-        sub_title: 'Web appliction for online recipes',
+        title: "Cyber Security",
+        sub_title: 'Web appliction security',
         type: 'Web Application',
         technology:[
             {
-                techName: 'Spring Boot',
+                techName: 'PHP',
             },
             {
                 techName: 'HTML',
@@ -30,17 +26,22 @@ export const content = {
                 techName: 'CSS',
             },
             {
-                techName: 'Thymelef',
+                techName: 'AJAX',
+            },
+            {
+                techName: 'JS',
             },
         ],
-        caseStudy: '',
+        caseStudy: `Cyber security is a web application made to be like a tutorial for programmers who writes web apps,
+                    so they can know the most famous velnurbilities and 
+                    how they can defend their apps against hackers.`,
         link: '',
         note: '',
         img_slides:[
             {
                 image_url: img_1,
                 caption: 'HomePage',
-                description: 'landing page for online kitchen',
+                description: 'landing page for Cyber Security',
             },
 
             {
@@ -87,30 +88,6 @@ export const content = {
 
             {
                 image_url: img_9,
-                caption: '',
-                description: '',
-            },
-
-            {
-                image_url: img_10,
-                caption: '',
-                description: '',
-            },
-
-            {
-                image_url: img_11,
-                caption: '',
-                description: '',
-            },
-
-            {
-                image_url: img_12,
-                caption: '',
-                description: '',
-            },
-
-            {
-                image_url: img_13,
                 caption: '',
                 description: '',
             },
