@@ -35,8 +35,8 @@ export const content = {
         caseStudy: `Cyber security is a web application made to be like a tutorial for programmers who writes web apps,
                     so they can know the most famous vulnerabilities and 
                     how they can defend their apps against hackers.`,
-        link: '',
-        note: '',
+        link: 'http://web-security.epizy.com/',
+        note: 'If anything goes wrong with the live server, please feel free to contact me.',
         img_slides:[
             {
                 image_url: img_1,
